@@ -1,0 +1,8 @@
+{
+  "name": "New Tumelo Digital Portfolio",
+  "description": "Brutalist-minimalist business and digital portfolio of Tumelo Veli Mawayi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
